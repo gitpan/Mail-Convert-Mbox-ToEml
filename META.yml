@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:                Mail-Convert-Mbox-ToEml
-version:             0.05
+version:             0.06
 abstract:            convert mbox files to Outlook Express .eml files
 license:             perl
 author:              
